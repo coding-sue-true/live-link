@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-1. Install the dependencies by running `yarn dev`
+1. Install the dependencies by running `yarn install`
 2. Run the development server with `yarn dev`
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
